@@ -1,0 +1,56 @@
+{
+    "movies": [
+        {
+            "timing": "10:00 AM",
+            "genre": "Action",
+            "title": "Avengers: Endgame"
+        },
+        {
+            "timing": "01:00 PM",
+            "genre": "Action",
+            "title": "The Dark Knight"
+        },
+        {
+            "timing": "04:00 PM",
+            "genre": "Romance",
+            "title": "Titanic"
+        }
+    ],
+    "customers": [
+        {
+            "bookedMovies": [
+                {
+                    "timing": "10:00 AM",
+                    "genre": "Action",
+                    "title": "Avengers: Endgame"
+                },
+                {
+                    "timing": "10:00 AM",
+                    "genre": "Action",
+                    "title": "Avengers: Endgame"
+                }
+            ],
+            "password": "password123",
+            "name": "John Doe",
+            "username": "johndoe"
+        },
+        {
+            "bookedMovies": [],
+            "password": "password456",
+            "name": "Jane Smith",
+            "username": "jane_smith"
+        }
+    ],
+    "employees": [
+        {
+            "password": "admin123",
+            "name": "Alice Brown",
+            "username": "alice_brown"
+        },
+        {
+            "password": "admin456",
+            "name": "Bob Green",
+            "username": "bob_green"
+        }
+    ]
+}
